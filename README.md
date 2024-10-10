@@ -1,5 +1,7 @@
 # Data sport visualisation 🏃‍♂️🏋️‍♀️
 
+This is a personal project that I developed in 2024.
+
 ## Motivation for the work
 I am passionate about sports (football, tennis, badminton...). Since 2020, I started running and I want to improve my speed and endurance in the long term. Then, I acquired theoretical knowledge about running. I noted that to progress without injury, it's essential to build a training program that aligns with the idea of **gradual progression** 📈. 
 
